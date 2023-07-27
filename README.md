@@ -23,12 +23,12 @@ https://online-image-editor.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/Chirag047/Expanding-Cards.git
+  git clone https://github.com/Chirag047/Online-Image-Editor.git
 ```
 Go to the project directory
 
 ```bash
-  cd Expanding-Cards
+  cd Online-Image-editor
 ```
 Start the development by running file index.html with live server extension.
 
