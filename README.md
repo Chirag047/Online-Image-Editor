@@ -1,10 +1,10 @@
 # Online-Image-Editor
 Online Image Editor is an image editor through which you can edit your images quickly and fastly without loosing its original quality. It has a clean UI experience and friendly to use for everyone.
-<br>
+<br><br>
 It is responsive on any screen devices so you can play it any device you wish :)
 <hr>
 
-## Working App can be found here
+## Working Web App can be found here
 
 https://online-image-editor.vercel.app/
 
