@@ -17,7 +17,7 @@ https://online-image-editor.vercel.app/
 
  <hr>
 
-## Demo 
+## Screenshots 
 
 <hr>
 
